@@ -1,9 +1,10 @@
 <h1> Eliel Martins </h1>
 
 <div>
+  <img height="150em"   align="center" src="https://media.licdn.com/dms/image/D4D03AQHzmikCz9ociw/profile-displayphoto-shrink_200_200/0/1675721790587?e=1694649600&v=beta&t=WcW2Fr4Ophx-dq7uINcl_xBuErZvxNJ3FZuv1yPFNY4"/>
   <a href="https://github.com/martinseliel">
-  <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=martinseliel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinseliel&layout=compact&langs_count=7&theme=react" />
+  <img height="170em"   align="center"  src="https://github-readme-stats.vercel.app/api?username=martinseliel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="170em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinseliel&layout=compact&langs_count=7&theme=react" />
 </div>
 
 <div  align="center"> 
@@ -15,8 +16,8 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- 
-</div>
+   <br>
+</div><br>
   <a href="https://www.instagram.com/souelielmartins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eliel-martins-48785949/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      
