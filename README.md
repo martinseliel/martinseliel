@@ -2,9 +2,8 @@
     <center align="center"><h1>ELIEL MARTINS</h1>
 </center> </br></br></br>
 </div>
-<div>
- 
-  <a href="https://github.com/martinseliel">
+<div align="center">
+   <a href="https://github.com/martinseliel">
   <img height="170em"   align="center"  src="https://github-readme-stats.vercel.app/api?username=martinseliel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="170em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinseliel&layout=compact&langs_count=7&theme=react" />
 </div>
